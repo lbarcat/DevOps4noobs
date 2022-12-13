@@ -1,0 +1,498 @@
+{
+  "courses": [
+    {
+      "name": "Assembly4noobs",
+      "tags" : ["Low Level"], 
+      "description": "Aprenda sobre a linguagem mais interessante para Engenharia Reversa.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "André Luís",
+        "username": "andreluispy",
+        "avatar_url": "https://github.com/andreluispy.png"
+      },
+      "url": "https://github.com/andreluispy/assembly4noobs"
+    },
+    {
+      "name": "Bash4noobs",
+      "tags" : ["Shell"], 
+      "image": "https://mazer.dev/wp-content/uploads/2021/05/shell-script-logo.jpg",
+      "description": "Aprenda a linguagem de script básica do seu sistema UNIX.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Bruno Dantas de Paiva ",
+        "username": "DantasB",
+        "avatar_url": "https://github.com/DantasB.png"
+      },
+      "url": "https://github.com/DantasB/Bash4Noobs"
+    },
+    {
+      "name": "C4noobs",
+      "image": "https://guiatech.net/wp-content/uploads/2019/11/linguagem-c.png",
+      "description": "Entendendo o básico para começar a programar na linguagem C.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "João Paulo Lima ",
+        "username": "jpaulohe4rt",
+        "avatar_url": "https://github.com/jpaulohe4rt.png"
+      },
+      "url": "https://github.com/jpaulohe4rt/c4noobs"
+    },
+    {
+      "name": "C++4noobs",
+      "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rPvSn38T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h2917prj7ldo0ow5x5ih.png",
+      "description": "Esse tutorial tem como objetivo principal apresentar e ensinar a linguagem de programação C++ de uma maneira fácil, descomplicada e acessível para todos.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Giovane Cardoso ",
+        "username": "novout",
+        "avatar_url": "https://github.com/novout.png"
+      },
+      "url": "https://github.com/Novout/cpp4noobs"
+    },
+    {
+      "name": "C#4noobs",
+      "image": "https://becode.com.br/wp-content/uploads/2017/02/Linguagem-de-Programa%C3%A7%C3%A3o-C-2.png",
+      "description": "A ideia é passar aos iniciantes conhecimentos básicos da maneira mais simples possível.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Bruno Dantas de Paiva ",
+        "username": "DantasB",
+        "avatar_url": "https://github.com/DantasB.png"
+      },
+      "url": "https://github.com/DantasB/CSharp4Noobs"
+    },
+    {
+      "name": "CSS4noobs",
+      "tags" : ["Front-End" , "Estilo"], 
+      "image": "https://cdn.slidesharecdn.com/ss_thumbnails/css3-151017183412-lva1-app6891-thumbnail-4.jpg?cb=1445106902",
+      "description": "Ensinar o básico de CSS para você poder aplicar os conhecimentos para estilizar páginas e websites com qualidade.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Matheus Henrique ",
+        "username": "mathh95",
+        "avatar_url": "https://github.com/mathh95.png"
+      },
+      "url": "https://github.com/mathh95/css4noobs"
+    },
+    {
+      "name": "Dart4noobs",
+      "image": "http://auditeste.com.br/wp-content/uploads/2020/05/linguagem_dart.jpg",
+      "description": "Tutorial de Dart para iniciantes na Linguagem.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Patrick Sasso",
+        "username": "pksasso",
+        "avatar_url": "https://github.com/pksasso.png"
+      },
+      "url": "https://github.com/pksasso/dart4noobs"
+    },
+    {
+      "name": "Elixir4noobs",
+      "tags" : ["Funcional"], 
+      "image": "https://miro.medium.com/max/800/0*ahZBVx3Z1eJRXDv1.png",
+      "description": "Esse projeto tem como objetivo auxiliar todos os desenvolvedores iniciantes na programação funcional.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Alexandre de Souza",
+        "username": "aleDsz",
+        "avatar_url": "https://github.com/aleDsz.png"
+      },
+      "url": "https://github.com/aleDsz/elixir4noobs"
+    },
+    {
+      "name": "Go4noobs",
+      "image": "https://t.ctcdn.com.br/_7D82Lpy0ZVZRAdHGDVU4Pz0Dgs=/1024x0/smart/filters:format(webp)/i599758.png",
+      "description": "Um guia que irá ajudar a melhorar seus conhecimentos em golang",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Caio Almeida",
+        "username": "caioreix",
+        "avatar_url": "https://github.com/caioreix.png"
+      },
+      "url": "https://github.com/caioreix/go4noobs#go4noobs"
+    },
+    {
+      "name": "HTML4noobs",
+      "tags" : ["Front-End", "Linguagem de marcação"], 
+      "image": "http://rafaelcintralopes.com.br/wp-content/uploads/2018/01/HTML55.png",
+      "description": "Aprenda sobre a linguagem de marcação mais utilizada na construção de páginas na Web.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Lucas ",
+        "username": "sorenhe4rt",
+        "avatar_url": "https://github.com/sorenhe4rt.png"
+      },
+      "url": "https://github.com/sorenhe4rt/HTML4Noobs"
+    },
+    {
+      "name": "Java4noobs",
+      "image": "https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png",
+      "description": "Tutorial De Java para iniciantes na Linguagem.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Paulo Rievrs Olviera",
+        "username": "paulorievrs",
+        "avatar_url": "https://github.com/paulorievrs.png"
+      },
+      "url": "https://github.com/paulorievrs/java4noobs"
+    },
+    {
+      "name": "Javascript4noobs",
+      "image": "https://static.imasters.com.br/wp-content/uploads/2019/06/06110736/JavaScript3.jpg",
+      "description": "Tutorial de Javascript para iniciantes na linguagem.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Thiago Della Noce",
+        "username": "ThiagoDellaNoce",
+        "avatar_url": "https://github.com/ThiagoDellaNoce.png"
+      },
+      "url": "https://github.com/ThiagoDellaNoce/javascript4noobs"
+    },
+    {
+      "name": "Markdown4noobs",
+      "tags" : ["Linguagem de marcação"], 
+      "image": "https://markdown.net.br/assets/img/markdown.jpg",
+      "description": "É ensinar o básico de Markdown para iniciantes para poderem aplicar em diversos projetos dando uma cara melhor ao README.md ou ao que for.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "João Paulo Lima ",
+        "username": "jpaulohe4rt",
+        "avatar_url": "https://github.com/jpaulohe4rt.png"
+      },
+      "url": "https://github.com/jpaulohe4rt/markdown4noobs"
+    },
+    {
+      "name": "Making Languages4noobs",
+      "description": "Aprenda a criar Linguagens de Programação",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "André Luís",
+        "username": "andreluispy",
+        "avatar_url": "https://github.com/andreluispy.png"
+      },
+      "url": "https://github.com/andreluispy/makinglanguages4noobs"
+    },
+    {
+      "name": "OCaml4noobs",
+      "tags" : ["Funcional"], 
+      "image": "https://www.logo.wine/a/logo/OCaml/OCaml-Logo.wine.svg",
+      "description": "Tutorial de OCaml para iniciantes na Linguagem.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Camilo Cunha de Azevedo",
+        "username": "Camilotk",
+        "avatar_url": "https://github.com/Camilotk.png"
+      },
+      "url": "https://github.com/Camilotk/ocaml4noobs"
+    },
+    {
+      "name": "PHP4noobs",
+      "image": "https://kinsta.com/pt/wp-content/uploads/sites/3/2019/05/o-que-php.png",
+      "description": "Tutorial de PHP para iniciantes na linguagem.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Daniel Reis ",
+        "username": "DanielHe4rt",
+        "avatar_url": "https://github.com/DanielHe4rt.png"
+      },
+      "url": "https://github.com/DanielHe4rt/php4noobs"
+    },
+    {
+      "name": "Python4noobs",
+      "image": "https://cetax.com.br/wp-content/uploads/2017/10/Python-import-chamada-metodo-dinamica.gif",
+      "description": "Tutorial de Python para que você aprenda mais sobre uma linguagem que está sempre crescendo e trazendo inovações.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Wendrew Oliveira ",
+        "username": "wendrewdevelop",
+        "avatar_url": "https://github.com/wendrewdevelop.png"
+      },
+      "url": "https://github.com/wendrewdevelop/python4noobs"
+    },
+    {
+      "name": "R4noobs",
+      "image": "https://ibpad.com.br/wp-content/uploads/2017/09/Programacao-R-1.jpg",
+      "description": "Aprenda um pouco mais sobre essa linguagem mais voltada a análise e visualização de dados.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Alexandre de Souza ",
+        "username": "aleDsz",
+        "avatar_url": "https://github.com/aleDsz.png"
+      },
+      "url": "https://github.com/Salandin/r4noobs"
+    },
+    {
+      "name": "Rust4noobs",
+      "image": "https://sempreupdate.com.br/wp-content/uploads/2020/08/rust-social-wide.jpg",
+      "description": "Introdução a linguagem de programação Rust, o objetivo deste repositório é inserir o leitor aos conceitos da linguagem Rust, como o seu modo de gerenciamento de memória e conceitos da linguagem.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Paulo Gabriel Justino Bezerra",
+        "username": "pgjbz",
+        "avatar_url": "https://github.com/pgjbz.png"
+      },
+      "url": "https://github.com/pgjbz/rust4noobs"
+    },
+    {
+      "name": "Ruby4noobs",
+      "description": "Introdução a linguagem de programação Ruby, entendendo o básico para começar a programar na linguagem Ruby.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Kaique Linhares Sousa",
+        "username": "rinyaresu",
+        "avatar_url": "https://github.com/rinyaresu.png"
+      },
+      "url": "https://github.com/rinyaresu/ruby4noobs"
+    },
+    {
+      "name": "Typescript4noobs",
+      "image": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/06/10b88c68-typescript-logo.png",
+      "description": "Adicione tipagem estática ao seu código Javascript.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Carolina Ale ",
+        "username": "Carolis",
+        "avatar_url": "https://github.com/Carolis.png"
+      },
+      "url": "https://github.com/Carolis/typescript4noobs"
+    },
+    {
+      "name": "Haskell4noobs",
+      "tags" : ["Funcional"], 
+      "description": "Único roadmap de Haskell possível, do noob ao Thanos.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Guilherme dos Reis Meira ",
+        "username": "Guilherme775",
+        "avatar_url": "https://github.com/Guilherme775.png"
+      },
+      "url": "https://github.com/Guilherme775/Haskell4Noobs"
+    },
+    {
+      "name": "NextJS4noobs",
+      "image": "https://miro.medium.com/max/1000/0*hXm4rb8UAf5DEhZ2.png",
+      "description": "Tutorial e documentação de Next.js traduzido em português para iniciantes em programação.",
+      "category": "Frameworks",
+      "author": {
+        "name": "Caio Almeida",
+        "username": "caioreix",
+        "avatar_url": "https://github.com/caioreix.png"
+      },
+      "url": "https://github.com/caioreix/NextJs4noobs"
+    },
+    {
+      "name": "Vue4noobs",
+      "image": "https://miro.medium.com/max/900/1*OrjCKmou1jT4It5so5gvOA.jpeg",
+      "description": "Esse tutorial tem como objetivo principal apresentar e ensinar o básico do framework Vue em sua versão 2, de uma maneira completa e acessível para todos.",
+      "category": "Frameworks",
+      "author": {
+        "name": "Giovane Cardoso",
+        "username": "Novout",
+        "avatar_url": "https://github.com/Novout.png"
+      },
+      "url": "https://github.com/Novout/vue4noobs/"
+    },
+    {
+      "name": "Flutter4noobs",
+      "tags" : ["Mobile"], 
+      "image": "https://www.zup.com.br/wp-content/uploads/2021/03/5ce2fde702ef93c1e994d987_flutter.png",
+      "description": "Introdução ao framework Flutter. Aprenda sobre Flutter, Widgets, Gerenciamento de Estado e a importância da Orientação a Objetos dentro dessa tecnologia.",
+      "category": "Frameworks",
+      "author": {
+        "name": "Felipe Ribeiro",
+        "username": "feliper2002",
+        "avatar_url": "https://github.com/feliper2002.png"
+      },
+      "url": "https://github.com/feliper2002/flutter4noobs"
+    },
+    {
+      "name": "Django4noobs",
+      "description": "Tutorial básico sobre o framework Django. Aprenda sobre configurações de projeto, módulos, arquitetura MTV, Models, Views e Templates.",
+      "category": "Frameworks",
+      "author": {
+        "name": "Bruno Vieira",
+        "username": "brunovhk",
+        "avatar_url": "https://github.com/brunovhk.png"
+      },
+      "url": "https://github.com/brunovhk/django4noobs"
+    },
+    {
+      "name": "Git4noobs",
+      "tags" : ["Sistema de controle de versão", "Github"], 
+      "image": "https://jonathasguerra.com.br/blog/wp-content/uploads/2018/04/git.jpg",
+      "description": "A ideia é ensinar para os usuários iniciantes que o Git não é nenhum \"monstro\" de se aprender e também ensinar como usar num ambiente onde há mais de um desenvolvedor atuando no projeto sem desorganizar ou perder algum traço de código no processo.",
+      "category": "Ferramentas",
+      "author": {
+        "name": "Daniel Reis",
+        "username": "danielhe4rt",
+        "avatar_url": "https://github.com/danielhe4rt.png"
+      },
+      "url": "https://github.com/DanielHe4rt/git4noobs"
+    },
+    {
+      "name": "RegEx4noobs",
+      "tags" : ["Expressão Regular"], 
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNF7z9opXFQkFtIw7PFTCTLB9gZXybwGe6w&usqp=CAU",
+      "description": "Aprenda o básico de expressões regulares e porque estão presentes em diversos editores de textos.",
+      "category": "Ferramentas",
+      "author": {
+        "name": "NiumXp",
+        "username": "NiumXp",
+        "avatar_url": "https://github.com/NiumXp.png"
+      },
+      "url": "https://github.com/NiumXp/regex4noobs"
+    },
+    {
+      "name": "Vim4noobs",
+      "tags" : ["Editor de texto"], 
+      "image": "https://u5h3z3d7.stackpathcdn.com/wp-content/uploads/2019/07/vim-diolinux.jpg",
+      "description": "Quem nunca entrou no Vim e não deu conta de sair? Pois bem, aqui você irá aprender um pouco a mais do que sair. Não ache que só ler você irá aprender, para realmente aprender precisará de praticar e muito!",
+      "category": "Ferramentas",
+      "author": {
+        "name": "Luan Mateus",
+        "username": "hellowluan",
+        "avatar_url": "https://github.com/luanmateuz.png"
+      },
+      "url": "https://github.com/hellowluan/vim4noobs"
+    },
+    {
+      "name": "WM4noobs",
+      "tags" : ["Gerenciador de janelas"], 
+      "description": "Vire um mestre do Linux usando Window Manager. Você irá maximizar sua produtividade e se tornar um expert no mundo Linux.",
+      "category": "Ferramentas",
+      "author": {
+        "name": "Geraldo",
+        "username": "gerald0x01",
+        "avatar_url": "https://github.com/geraldoahnert.png"
+      },
+      "url": "https://github.com/gerald0x01/wm4noobs"
+    },
+    {
+      "name": "WSL24noobs",
+      "description": "Utilize Linux e Windows sem precisar de Dual Boot com o Windows Subsystem for Linux",
+      "category": "Ferramentas",
+      "author": {
+        "name": "Rafael Salandin",
+        "username": "Salandin",
+        "avatar_url": "https://github.com/Salandin.png"
+      },
+      "url": "https://github.com/Salandin/wsl4noobs"
+    },
+    {
+      "name": "Arch Linux4noobs",
+      "tags" : ["Distribuição"], 
+      "image": "https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png",
+      "description": "Tutorial De Instalação da distribuição ArchLinux.",
+      "category": "Sistemas operacionais",
+      "author": {
+        "name": "Lucas Silva",
+        "username": "LucasHe4rt",
+        "avatar_url": "https://github.com/LucasHe4rt.png"
+      },
+      "url": "https://github.com/LucasHe4rt/ArchLinux4noobs"
+    },
+    {
+      "name": "Linux4noobs",
+      "tags" : ["Kernel"],
+      "image": "https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg",
+      "description": "Tutorial De Linux para iniciantes em Programação.",
+      "category": "Sistemas operacionais",
+      "author": {
+        "name": "Francisco Paradella ",
+        "username": "FranOnRails",
+        "avatar_url": "https://github.com/LucasHe4rt.png"
+      },
+      "url": "https://github.com/lucashe4rt/linux4noobs"
+    },
+    {
+      "name": "UI4noobs",
+      "description": "Tutorial tem como objetivo principal apresentar e ensinar o básico do UI Design, de uma maneira completa e acessível para todos.",
+      "category": "Design",
+      "author": {
+        "name": "Felipe Gabriel ",
+        "username": "FelipeG7K",
+        "avatar_url": "https://github.com/setekpro.png"
+      },
+      "url": "https://github.com/IUX7K/ui4noobs"
+    },
+    {
+      "name": "UX4noobs",
+      "tag": ["Experiência de Usuário"],
+      "description": "Esse tutorial tem como objetivo principal apresentar e ensinar o básico do UX Design, de uma maneira completa e acessível para todos.",
+      "category": "Design",
+      "author": {
+        "name": "Felipe Gabriel",
+        "username": "FelipeG7K",
+        "avatar_url": "https://github.com/setekpro.png"
+      },
+      "url": "https://github.com/IUX7K/ux4noobs/"
+    },
+    {
+      "name": "MySQL4noobs",
+      "image": "https://www.seekpng.com/png/detail/798-7985471_mysql-logo-mysql.png",
+      "description": "Aprenda a manipular o banco de dados no MySQL",
+      "category": "Banco de Dados",
+      "author": {
+        "name": "Paulo Rievrs",
+        "username": "paulorievrs",
+        "avatar_url": "https://github.com/paulorievrs.png"
+      },
+      "url": "https://github.com/paulorievrs/mysql4noobs"
+    },
+    {
+      "name": "MongoDB4noobs",
+      "image": "http://drcode.com.br/blog/wp-content/uploads/2019/08/mongoDB.png",
+      "description": "Aprenda a manipular o banco de dados noSQL MongoDB",
+      "category": "Banco de Dados",
+      "author": {
+        "name": "Carlos Daniel",
+        "username": "carlosdnba",
+        "avatar_url": "https://github.com/carlosdnba.png"
+      },
+      "url": "https://github.com/carlosdnba/mongodb4noobs"
+    },
+    {
+      "name": "Postgresql4Noobs",
+      "image": "https://kinsta.com/wp-content/uploads/2022/02/postgres-logo.png",
+      "description": "Aprenda a manipular o banco de dados no PostgreSQL",
+      "category": "Banco de Dados",
+      "author": {
+        "name": "Rômulo Silva",
+        "username": "rohlacanna",
+        "avatar_url": "https://github.com/rohlacanna.png"
+      },
+      "url": "https://github.com/rohlacanna/postgresql4noobs"
+    },
+    {
+      "name": "Kotlin4noobs",
+      "image": "https://silvrback.s3.amazonaws.com/uploads/0f11ba64-5b55-4e0f-b4fb-4c5faf611c7b/kotlin_800x320.png",
+      "description": "Tutorial de Kotlin para iniciantes na linguagem.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Gustavo Freze",
+        "username": "gustavofreze",
+        "avatar_url": "https://github.com/gustavofreze.png"
+      },
+      "url": "https://github.com/gustavofreze/kotlin4noobs"
+    },
+    {
+      "name": "Swift4noobs",
+      "image": "https://developer.apple.com/swift/images/swift-og.png",
+      "description": "Introdução a linguagem de programação Swift para quem está começando no desenvolvimento iOS.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Giovanna Moeller",
+        "username": "giovannamoeller",
+        "avatar_url": "https://github.com/giovannamoeller.png"
+      },
+      "url": "https://github.com/giovannamoeller/swift4noobs"
+    }
+  ],
+  "socials": {
+    "twitter": 13,
+    "instagram": 3,
+    "github": 2,
+    "discord": 12
+  },
+  "categories": []
+}
