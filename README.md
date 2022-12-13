@@ -26,12 +26,12 @@
     
  <!-- ABOUT THE PROJECT -->
 
-## Sobre o Projeto
-Explique um pouco sobre o 4noobs que está desenvolvendo.
+## Sobre o Repositório
+Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar o DevOps para melhorar o desempenho dos projetos.
 
 <!-- ROADMAP OF PROJECT -->
 
-## ROADMAP
+## Road Map
 
 - [Conteúdo 1](link-primeira-parte)
 - [Conteúdo 2](link-segunda-parte)
@@ -53,14 +53,14 @@ Contribuições fazem com que a comunidade open source seja um lugar incrível p
 são **extremamente apreciadas**
 
 1. Realize um Fork do projeto
-2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
-3. Realize o Commit (`git commit -m 'Adicionado conteudo brabo'`)
-4. Realize o Push no Branch (`git push origin feature/featureBraba`)
+2. Crie um branch com a nova feature (`git checkout -b feature/feature`)
+3. Realize o Commit (`git commit -m 'Adicionado conteudo'`)
+4. Realize o Push no Branch (`git push origin feature/feature`)
 5. Abra um Pull Request
 
 ## Autores
 
-- **Nome Completo** - _Especialidade_ - [@nickname](seutwitter)
+- **Lucas Barcat** - _Pós graduado em Projetos e Estudande de Engenharia de Computação_ - [@lucasbarcat](@LucasBarcat)
 
 ---
 
