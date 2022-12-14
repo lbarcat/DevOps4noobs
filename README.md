@@ -27,7 +27,7 @@
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Repositório
-Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar o DevOps para melhorar o desempenho dos projetos.
+Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar o DevOps para melhorar o desempenho dos projetos. O que o DevOps significa para as equipes? O DevOps permite que funções anteriormente isoladas – desenvolvimento, operações de TI, engenharia da qualidade e segurança – atuem de forma coordenada e colaborativa para gerar produtos melhores e mais confiáveis. Ao adotar uma cultura de DevOps em conjunto com as práticas e ferramentas de DevOps, as equipes ganham a capacidade de responder melhor às necessidades dos clientes, aumentar a confiança nos aplicativos que constroem e cumprir as metas empresariais mais rapidamente.
 
 <!-- ROADMAP OF PROJECT -->
 
