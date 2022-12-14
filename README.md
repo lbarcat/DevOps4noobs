@@ -33,18 +33,16 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
 
 ## Road Map
 
-- [Conteúdo 1](link-primeira-parte)
-- [Conteúdo 2](link-segunda-parte)
-- [Conteúdo 3](link-terceira-parte)
-  - [Sub-conteúdo](link-sub-conteudo)
-  	- [Sub-conteúdo](link-sub-conteudo)
-  - [Sub-conteúdo](link-sub-conteudo)
-- [Conteúdo 4](link-quarta-parte)
-- [Conteúdo 5](link-quinta-parte)
-  - [Sub-conteúdo](link-sub-conteudo)
-  - [Sub-conteúdo](link-sub-conteudo)
-  
-  
+- [Introdução](link-primeira-parte)
+- [Benefícios](link-segunda-parte)
+- [O ciclo de vida do aplicativo](link-terceira-parte)
+  - [Plano](link-sub-conteudo)
+  - [Desenvolver](link-sub-conteudo)
+  - [Fornecimento](link-sub-conteudo)
+  - [Operar](link-sub-conteudo)
+- [Cultura DevOps](link-quarta-parte)
+- [Práticas](link-quinta-parte)
+
 <!-- CONTRIBUTING -->
 
 ## Como Contribuir
