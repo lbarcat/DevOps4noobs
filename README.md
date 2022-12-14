@@ -42,6 +42,16 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
   - [Operar](link-sub-conteudo)
 - [Cultura DevOps](link-quarta-parte)
 - [Práticas](link-quinta-parte)
+- [Aprenda uma linguagem de programação/Escolha qualquer idioma para automação](link-sexta-parte)
+- [Entenda os diferentes conceitos de sistema operacional](link-setima-parte)
+- [Saiba mais sobre o gerenciamento de servidores](link-setima-parte)
+- [Rede, Segurança e Protocolos](link-setima-parte)
+- [O que é e como configurar um...?](link-setima-parte)
+- [Aprenda infraestrutura como código](link-setima-parte)
+- [Aprenda alguma ferramenta de CI/CD](link-setima-parte)
+- [Aprenda a monitorar software e infraestrutura](link-setima-parte)
+- [Provedores de nuvem](link-setima-parte)
+- [Padrões de design de nuvem](link-setima-parte)
 
 <!-- CONTRIBUTING -->
 
