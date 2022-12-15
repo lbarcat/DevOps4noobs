@@ -35,7 +35,7 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
 
 - [Introdução](contents/Introducao/Introducao.md)
 - [Benefícios](contents/Benefícios/Benefícios.md)
-- [O ciclo de vida do aplicativo](link)
+- [O ciclo de vida do aplicativo](contents/Ciclo%20de%20vida/Ciclo%20de%20vida.md)
   - [Plano](link)
   - [Desenvolver](link)
   - [Fornecimento](link)
