@@ -9,7 +9,6 @@ O DevOps influencia o ciclo de vida do aplicativo em todas as fases do planejame
 - 3 - Fornecimento
 - 4 - Operar
 
-<img src=".github/ciclodevida.png" alt="Ciclo de Vida">
-
+<h1 align="center"><img src=".github/ciclodevida.png" alt="Imagem da linguagem" width="200"></h1>
 
 [Inicio](../../README.md)
