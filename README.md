@@ -34,7 +34,7 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
 ## Road Map
 
 - [Introdução](contents/introducao/introducao.md)
-- [Benefícios](contents/benefícios/benefícios.md)
+- [Benefício](contents/beneficios/beneficios.md)
 - [O ciclo de vida do aplicativo](contents/ciclodevida/ciclodevida.md)
   - [Plano](link)
   - [Desenvolver](link)
