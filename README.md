@@ -12,17 +12,6 @@
   <h2 align="center">DevOps</h2>
 
   <h1 align="center"><img src=".github/devopslogo.png" alt="Imagem da linguagem" width="200"></h1>
-  
-  <p align="center">
-    <br />
-    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
-    <br />
-    <br />
-    <a href="link-para-abrir-issue">Report Bug</a>
-    ·
-    <a href="link-para-abrir-issue">Request Feature</a>
-  </p>
-</p>
     
  <!-- ABOUT THE PROJECT -->
 
@@ -36,37 +25,37 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
 - [Introdução](contents/introdução/introdução.md)
 - [Benefício](contents/beneficios/beneficios.md)
 - [O ciclo de vida do aplicativo](contents/ciclodevida/ciclodevida.md)
-  - [Plano](link)
-  - [Desenvolver](link)
-  - [Fornecimento](link)
-  - [Operar](link)
-- [Cultura DevOps](link)
-- [Práticas](link)
-- [Aprenda uma linguagem de programação/Escolha qualquer idioma para automação](link)
-- [Entenda os diferentes conceitos de sistema operacional](link)
-  - [Networking](link)
-  - [POSIX](link)
-  - [Sockets](link)
-  - [Processos](link)
-- [Saiba mais sobre o gerenciamento de servidores](link)
-- [Rede, Segurança e Protocolos](link)
-- [O que é e como configurar um...?](link)
-  - [Reverse Proxy](link)
-  - [Forward Proxy](link)
-  - [Firewall](link)
-  - [Caching Server](link)
-  - [Load Balancer](link)
-  - [Web Server](link)
-- [Aprenda infraestrutura como código](link)
-  - [Service Mesh](link)
-  - [Containers](link)
-  - [Configuration Mgmt.](link)
-- [Aprenda alguma ferramenta de CI/CD](link)
-- [Aprenda a monitorar software e infraestrutura](link)
-  - [Monitoramento de Infraestrutura](link)
-  - [Monitoramento de Aplicações](link)
-- [Provedores de nuvem](link)
-- [Padrões de design de nuvem](link)
+  - [Plano](contents/ciclodevida/ciclodevida.md)
+  - [Desenvolver](contents/ciclodevida/ciclodevida.md)
+  - [Fornecimento](ccontents/ciclodevida/ciclodevida.md)
+  - [Operar](contents/ciclodevida/ciclodevida.md)
+- [Cultura DevOps](contents/culturadevops/culturadevops.md)
+- [Práticas](contents/praticas/praticas.md)
+- [Aprenda uma linguagem de programação/Escolha qualquer idioma para automação](contents/aprendaumalinguagem/.aprendaumalinguagem.md)
+- [Entenda os diferentes conceitos de sistema operacional](contents/diferentesconceitos/diferentesconceitos.md)
+  - [Networking](contents/diferentesconceitos/diferentesconceitos.md)
+  - [POSIX](contents/diferentesconceitos/diferentesconceitos.md)
+  - [Sockets](contents/diferentesconceitos/diferentesconceitos.md)
+  - [Processos](contents/diferentesconceitos/diferentesconceitos.md)
+- [Saiba mais sobre o gerenciamento de servidores](contents/gerenciamentodeservidores/gerenciamentodeservidores.md)
+- [Rede, Segurança e Protocolos](contents/redeeseguranca/redeeseguranca.md)
+- [O que é e como configurar um...?](contents/configurar/configurar.md)
+  - [Reverse Proxy](contents/configurar/configurar.md)
+  - [Forward Proxy](contents/configurar/configurar.md)
+  - [Firewall](contents/configurar/configurar.md)
+  - [Caching Server](contents/configurar/configurar.md)
+  - [Load Balancer](contents/configurar/configurar.md)
+  - [Web Server](contents/configurar/configurar.md)
+- [Aprenda infraestrutura como código](contents/infraestrutura/infraestrutura.md)
+  - [Service Mesh](contents/infraestrutura/infraestrutura.md)
+  - [Containers](contents/infraestrutura/infraestrutura.md)
+  - [Configuration Mgmt.](contents/infraestrutura/infraestrutura.md)
+- [Aprenda alguma ferramenta de CI/CD](contents/cicd/cicd.md)
+- [Aprenda a monitorar software e infraestrutura](contents/monitorar/monitorar.md)
+  - [Monitoramento de Infraestrutura](contents/monitorar/monitorar.md)
+  - [Monitoramento de Aplicações](contents/monitorar/monitorar.md)
+- [Provedores de nuvem](contents/provedoresdenuvem/provedoresdenuvem.md)
+- [Padrões de design de nuvem](contents/designdenuvem/designdenuvem.md)
 
 <!-- CONTRIBUTING -->
 
