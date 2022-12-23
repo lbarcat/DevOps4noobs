@@ -33,7 +33,7 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
 - [Práticas](contents/praticas/praticas.md)
 - [Aprenda uma linguagem de programação/Escolha qualquer idioma para automação](contents/aprendaumalinguagem/aprendaumalinguagem.md)
 - [Entenda os diferentes conceitos de sistema operacional](contents/diferentesconceitos/diferentesconceitos.md)
-  - [Networking](contents/diferentesconceitos/diferentesconceitos.md)
+  - [Rede](contents/diferentesconceitos/diferentesconceitos.md)
   - [POSIX](contents/diferentesconceitos/diferentesconceitos.md)
   - [Sockets](contents/diferentesconceitos/diferentesconceitos.md)
   - [Processos](contents/diferentesconceitos/diferentesconceitos.md)
