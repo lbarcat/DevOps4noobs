@@ -67,9 +67,9 @@ Thread é uma entidade ativa que executa uma parte de um processo. É um fluxo s
 
 Principais terminologias:
 
-proc
-fork
-join
+- proc
+- fork
+- join
 
 ## **Simultaneidade no sistema operacional**
 
@@ -79,8 +79,8 @@ Os threads do processo em execução sempre se comunicam entre si por meio de me
 
 Principais terminologias:
 
-mutex
-critical section
-Deadlock
+- mutex
+- critical section
+- Deadlock
 
  [Inicio](../../README.md)
