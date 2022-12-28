@@ -36,3 +36,5 @@ O OpenBSD é um sistema operacional gratuito e de código aberto semelhante ao U
 
 # **NetBSD**
 O NetBSD é um sistema operacional de código aberto semelhante ao Unix gratuito, rápido, seguro e altamente portátil. Ele está disponível para uma ampla gama de plataformas, desde servidores de grande escala e poderosos sistemas de desktop até dispositivos portáteis e embarcados.
+
+[Inicio](../../README.md)
