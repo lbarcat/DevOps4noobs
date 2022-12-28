@@ -41,7 +41,7 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
 - [Sistema Operacional](contents/sistemaop/sistemaop.md)
 - [Viver no Terminal](contents/vivernoterminal/vivernoterminal.md)
   - [Compilando Aplicativos](contents/compilandoaplicativos/compilandoaplicativos.md)
-  - [Ferramentas de Manipulação de Texto](contents/ferramentasdemanipulacao/ferramentasdemanipulacao.md)
+  - [Ferramentas de Manipulação de Texto](contents/ferramentas/ferramentas.md)
 - [Rede, Segurança e Protocolos](contents/redeeseguranca/redeeseguranca.md)
 - [O que é e como configurar um...?](contents/configurar/configurar.md)
   - [Reverse Proxy](contents/configurar/configurar.md)
