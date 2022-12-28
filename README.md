@@ -38,6 +38,7 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
   - [Sockets](contents/diferentesconceitos/diferentesconceitos.md)
   - [Processos](contents/diferentesconceitos/diferentesconceitos.md)
 - [Saiba mais sobre o gerenciamento de servidores](contents/gerenciamentodeservidores/gerenciamentodeservidores.md)
+- [Sistema Operacional](contents/sistemaop/sistemaop.md)
 - [Rede, Segurança e Protocolos](contents/redeeseguranca/redeeseguranca.md)
 - [O que é e como configurar um...?](contents/configurar/configurar.md)
   - [Reverse Proxy](contents/configurar/configurar.md)
