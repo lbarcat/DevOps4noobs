@@ -28,7 +28,7 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
 ### 2. O ciclo de vida do aplicativo:
   - [Plano](contents/ciclodevida/ciclodevida.md)
   - [Desenvolver](contents/ciclodevida/ciclodevida.md)
-  - [Fornecimento](ccontents/ciclodevida/ciclodevida.md)
+  - [Fornecimento](contents/ciclodevida/ciclodevida.md)
   - [Operar](contents/ciclodevida/ciclodevida.md)
 
 ### 3. Cultura Devops
