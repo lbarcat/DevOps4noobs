@@ -2,6 +2,10 @@
 
 ## **O que é DevOps?**
 
+
+<a href="https://imgur.com/yH9mcNc"><img src="https://i.imgur.com/yH9mcNc.png" title="source: imgur.com" /></a>
+
+
 DevOps é uma abordagem para a gestão do ciclo de vida do software que visa aumentar a eficiência e a eficácia das operações de desenvolvimento e de operações de TI através de uma melhor colaboração e comunicação entre os desenvolvedores de software e os profissionais de operações de TI. A filosofia do DevOps é baseada no princípio de que a colaboração e a integração contínuas entre os desenvolvedores e os operadores de TI podem levar a entregas de software mais rápidas, com menos erros e maior escalabilidade.
 
 ## **Exemplo**

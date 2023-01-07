@@ -8,13 +8,13 @@ O Windows é um sistema operacional baseado em interface gráfica do usuário (G
 
 # **Linux**
 
-**Ubuntu/Debian**
+**Ubuntu/Debian:**
 
 Debian é uma distribuição Linux gratuita e de código aberto desenvolvida pelo Debian Project, uma organização comunitária de software totalmente voluntária. Debian é a distribuição upstream do Ubuntu.
 
 Ubuntu é uma distribuição Linux gratuita e de código aberto baseada no Debian. Ubuntu está disponível em três versões Desktop, Server e Core.
 
-**RHEL / Derivativos**
+**RHEL / Derivativos:**
 
 O Red Hat Enterprise Linux (RHEL) é uma distribuição popular do sistema operacional Linux projetada para uso em nível empresarial. Ele é desenvolvido e mantido pela Red Hat, Inc. e está disponível em um modelo baseado em assinatura.
 
@@ -22,7 +22,7 @@ Existem várias distribuições do Linux baseadas no RHEL ou que foram derivadas
 
 Os derivados do RHEL são frequentemente usados em ambientes corporativos porque oferecem a estabilidade e a confiabilidade do RHEL, mas com o benefício adicional de serem alternativas gratuitas ou de baixo custo.
 
-**OpenSUSE Linux**
+**OpenSUSE Linux:**
 
 O openSUSE é uma distribuição Linux gratuita destinada a promover o uso do Linux em todos os lugares. openSUSE é lançado em duas versões Leap e Tumbleweed.
 

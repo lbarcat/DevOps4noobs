@@ -2,7 +2,7 @@
 
 Um terminal é simplesmente uma interface baseada em texto para o computador, é usado para interagir com seu sistema de computador via CLI (interface de linha de comando)
 
-**Script bash**
+**Script bash:**
 
 Bash é um programa shell de interface de linha de comando usado extensivamente no Linux e macOS. O nome Bash é um acrônimo para "Bourne Again Shell", desenvolvido em 1989 como sucessor do Bourne Shell.
 
@@ -12,25 +12,25 @@ Na verdade, você usa shells de GUI o tempo todo. Por exemplo, o Windows 10 é b
 
 Com um shell CLI como o Bash, você digita comandos no programa para controlar diretamente o sistema operacional do seu computador. Abrir o terminal no seu Mac ou a linha de comando no Linux será semelhante a consoles e ambientes de desenvolvimento integrado (IDEs) para outras linguagens de programação, como R, Ruby ou Python. Você pode digitar comandos diretamente na linha de comando ou executar scripts Bash para executar tarefas mais longas e complexas.
 
-**Editores**
+**Editores:**
 
 Editores são ferramentas que permitem criar ou editar arquivos em seu sistema de arquivos.
 
-**Vim**
+**Vim:**
 
 Vim é um editor de texto altamente configurável construído para tornar a criação e alteração de qualquer tipo de texto muito eficiente. Está incluído como "vi" na maioria dos sistemas UNIX e no Apple OS X.
 
 O Vim vem com o vimtutor, que é um tutor projetado para descrever comandos suficientes do Vim para que você possa usar facilmente o Vim como um editor para todos os fins.
 
-**Nano**
+**Nano:**
 
 GNU nano é um editor de texto pequeno e amigável.
 
-**PowerShell**
+**PowerShell:**
 
 O PowerShell é uma solução de automação de tarefas multiplataforma composta por um shell de linha de comando, uma linguagem de script e uma estrutura de gerenciamento de configuração. O PowerShell é executado no Windows, Linux e macOS.
 
-**Emacs**
+**Emacs:**
 
 Um editor de texto extensível, personalizável e gratuito.
 

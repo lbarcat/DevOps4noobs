@@ -22,23 +22,42 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
 
 ## Road Map
 
+### 1. Introdução:
 - [Introdução](contents/introdução/introdução.md)
 - [Benefício](contents/beneficios/beneficios.md)
-- [O ciclo de vida do aplicativo](contents/ciclodevida/ciclodevida.md)
+### 2. O ciclo de vida do aplicativo:
   - [Plano](contents/ciclodevida/ciclodevida.md)
   - [Desenvolver](contents/ciclodevida/ciclodevida.md)
   - [Fornecimento](ccontents/ciclodevida/ciclodevida.md)
   - [Operar](contents/ciclodevida/ciclodevida.md)
+
+### 3. Cultura Devops
+
 - [Cultura DevOps](contents/culturadevops/culturadevops.md)
 - [Práticas](contents/praticas/praticas.md)
+
+### 4. Linguagens de Programação
+
 - [Aprenda uma linguagem de programação/Escolha qualquer idioma para automação](contents/aprendaumalinguagem/aprendaumalinguagem.md)
+
+### 5. Diferentes Conceitos de Sistema Operacional
+
 - [Entenda os diferentes conceitos de sistema operacional](contents/diferentesconceitos/diferentesconceitos.md)
   - [Rede](contents/diferentesconceitos/diferentesconceitos.md)
   - [POSIX](contents/diferentesconceitos/diferentesconceitos.md)
   - [Sockets](contents/diferentesconceitos/diferentesconceitos.md)
   - [Processos](contents/diferentesconceitos/diferentesconceitos.md)
+
+### 6. Sistema Operacional
+
+- [Sistemas Operacionais](contents/sistemaop/sistemaop.md)
+
+### 7. Gerenciamento de Servidores
+
 - [Saiba mais sobre o gerenciamento de servidores](contents/gerenciamentodeservidores/gerenciamentodeservidores.md)
-- [Sistema Operacional](contents/sistemaop/sistemaop.md)
+
+### 8. Terminais
+
 - [Viver no Terminal](contents/vivernoterminal/vivernoterminal.md)
   - [Compilando Aplicativos](contents/compilandoaplicativos/compilandoaplicativos.md)
   - [Ferramentas de Manipulação de Texto](contents/ferramentas/ferramentas.md)
@@ -46,23 +65,45 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
   - [Monitoramento de Processos](contents/monitoramentodeprocessos/monitoramentodeprocessos.md)
   - [Desempenho do Sistema](contents/desempeenho/desempenho.md)
   - [Ferramentas de Rede](contents/multiplexadores/multiplexadores.md)
+
+### 9. Rede e Segurança
+
 - [Rede, Segurança e Protocolos](contents/redeeseguranca/redeeseguranca.md)
-- [O que é e como configurar um...?](contents/configurar/configurar.md)
+
+### 10. Aprenda a Configurar
+
   - [Reverse Proxy](contents/configurar/configurar.md)
   - [Forward Proxy](contents/configurar/configurar.md)
   - [Firewall](contents/configurar/configurar.md)
   - [Caching Server](contents/configurar/configurar.md)
   - [Load Balancer](contents/configurar/configurar.md)
   - [Web Server](contents/configurar/configurar.md)
-- [Aprenda infraestrutura como código](contents/infraestrutura/infraestrutura.md)
-  - [Service Mesh](contents/infraestrutura/infraestrutura.md)
+
+### 11. Iac - Infraestrutura como Código
+
+  - [Terraform](contents/infraestrutura/infraestrutura.md)
+  - [AWS CDK](contents/infraestrutura/infraestrutura.md)
+  - [Cloud Formation](contents/infraestrutura/infraestrutura.md)
+  - [Pulumi](contents/infraestrutura/infraestrutura.md)
   - [Containers](contents/infraestrutura/infraestrutura.md)
   - [Configuration Mgmt.](contents/infraestrutura/infraestrutura.md)
+
+### 12. CI/CD
+
 - [Aprenda alguma ferramenta de CI/CD](contents/cicd/cicd.md)
+
+### 13. Monitoramento
+
 - [Aprenda a monitorar software e infraestrutura](contents/monitorar/monitorar.md)
   - [Monitoramento de Infraestrutura](contents/monitorar/monitorar.md)
   - [Monitoramento de Aplicações](contents/monitorar/monitorar.md)
+
+### 14. Provedores de Nuvem
+
 - [Provedores de nuvem](contents/provedoresdenuvem/provedoresdenuvem.md)
+
+### 15. Design de Nuvem
+
 - [Padrões de design de nuvem](contents/designdenuvem/designdenuvem.md)
 
 <!-- CONTRIBUTING -->

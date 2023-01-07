@@ -29,7 +29,8 @@ Um processo significa um programa em execução. Geralmente, ele recebe uma entr
 Tipos de processos:
 
 Processos de primeiro plano
-processos em segundo plano
+
+Processos em segundo plano
 
 ## **Gerenciamento de E/S**
 
