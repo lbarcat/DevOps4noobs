@@ -22,10 +22,11 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
 
 ## Road Map
 
-### 1. Introdução:
+### 1. Introdução
 - [Introdução](contents/introdução/introdução.md)
 - [Benefício](contents/beneficios/beneficios.md)
-### 2. O ciclo de vida do aplicativo:
+
+### 2. O ciclo de vida do aplicativo
   - [Plano](contents/ciclodevida/ciclodevida.md)
   - [Desenvolver](contents/ciclodevida/ciclodevida.md)
   - [Fornecimento](contents/ciclodevida/ciclodevida.md)
@@ -62,7 +63,7 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
   - [Compilando Aplicativos](contents/compilandoaplicativos/compilandoaplicativos.md)
   - [Ferramentas de Manipulação de Texto](contents/ferramentas/ferramentas.md)
   - [Terminais Multiplexadores](contents/multiplexadores/multiplexadores.md)
-  - [Monitoramento de Processos](contents/monitoramentodeprocessos/monitoramentodeprocessos.md)
+  - [Monitoramento de Processos](contents/monitoramentoprocessos/monitoramentoprocessos.md)
   - [Desempenho do Sistema](contents/desempeenho/desempenho.md)
   - [Ferramentas de Rede](contents/multiplexadores/multiplexadores.md)
 
