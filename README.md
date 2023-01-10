@@ -123,6 +123,8 @@ são **extremamente apreciadas**
 ## Autores
 
 - **Lucas Barcat** - _Pós graduado em Projetos e Estudande de Engenharia de Computação_ - [@lucasbarcat](@LucasBarcat)
+- **Bruno Novais** - _Engenheiro de Software, amante de RPG e curioso por DevOps_ - [@midhatdrops](@midhatdrops)
+
 
 ---
 
