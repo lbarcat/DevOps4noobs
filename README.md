@@ -11,7 +11,7 @@
 <p align="center">
   <h2 align="center">DevOps</h2>
 
-  <h1 align="center"><img src=".github/devopslogo.png" alt="Imagem da linguagem" width="200"></h1>
+  <h1 align="center"><img src=".github/devopslogo.png" alt="Imagem da linguagem" width="300"></h1>
     
  <!-- ABOUT THE PROJECT -->
 
