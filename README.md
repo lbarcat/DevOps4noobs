@@ -64,8 +64,8 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
   - [Ferramentas de Manipulação de Texto](contents/ferramentas/ferramentas.md)
   - [Multiplexadores de Terminais](contents/multiplexadores/multiplexadores.md)
   - [Monitoramento de Processos](contents/monitoramentoprocessos/monitoramentoprocessos.md)
-  - [Desempenho do Sistema](contents/desempeenho/desempenho.md)
-  - [Ferramentas de Rede](contents/multiplexadores/multiplexadores.md)
+  - [Desempenho do Sistema](contents/desempenho/desempenho.md)
+  - [Ferramentas de Rede](contents/ferramentasrede/ferramentasrede.md)
 
 ### 9. Rede e Segurança
 
