@@ -37,5 +37,4 @@ O modelo Open Systems Interconnection (OSI) é um modelo conceitual composto por
 
 DNS (Domain Name System) é a lista telefônica da Internet. Os humanos acessam informações online por meio de nomes de domínio, como nytimes.com ou espn.com. Os navegadores da Web interagem por meio de endereços IP (Internet Protocol). O DNS traduz nomes de domínio em endereços IP para que os navegadores possam carregar recursos da Internet.
 
-
  [Inicio](../../README.md)
