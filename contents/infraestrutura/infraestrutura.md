@@ -38,14 +38,6 @@
 
     Documentação: https://linuxcontainers.org/lxc/documentation/
 
-- **Configuration Mgmt:**
-
-    Ansible:
-
-    Ansible é uma ferramenta de gerenciamento de configuração, implantação de aplicativos e provisionamento de código aberto que usa sua própria linguagem declarativa em YAML. Ansible é sem agente, o que significa que você só precisa de conexões remotas via SSH ou Windows Remote Management via Powershell para funcionar.
-
-    Documentação: https://docs.ansible.com/
-
 - **Container Orchestration:**
 
     Kubernetes:
@@ -55,6 +47,14 @@
     A popularidade do Kubernetes tornou-o uma habilidade cada vez mais importante para o DevOps Engineer e desencadeou a criação de equipes de plataforma em todo o setor. Essas equipes de engenharia de plataforma geralmente existem com o único objetivo de tornar o Kubernetes acessível e utilizável para seus colegas de desenvolvimento de produtos.
 
     Documentação: https://kubernetes.io/docs/home/
+
+- **Configuration Mgmt:**
+
+    Ansible:
+
+    Ansible é uma ferramenta de gerenciamento de configuração, implantação de aplicativos e provisionamento de código aberto que usa sua própria linguagem declarativa em YAML. Ansible é sem agente, o que significa que você só precisa de conexões remotas via SSH ou Windows Remote Management via Powershell para funcionar.
+
+    Documentação: https://docs.ansible.com/
 
 - **GitOps:**
 

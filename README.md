@@ -87,7 +87,11 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
   - [Cloud Formation](contents/infraestrutura/infraestrutura.md)
   - [Pulumi](contents/infraestrutura/infraestrutura.md)
   - [Containers](contents/infraestrutura/infraestrutura.md)
+  - [Container Orchestration](contents/infraestrutura/infraestrutura.md)
   - [Configuration Mgmt.](contents/infraestrutura/infraestrutura.md)
+  - [GitOps](contents/infraestrutura/infraestrutura.md)
+  - [Secret Management](contents/infraestrutura/infraestrutura.md)
+  - [Service Mesh](contents/infraestrutura/infraestrutura.md)
 
 ### 12. CI/CD
 
