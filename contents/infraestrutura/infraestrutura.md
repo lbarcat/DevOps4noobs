@@ -93,3 +93,5 @@
     Consul:
 
     Consul é uma solução de malha de serviço que fornece um plano de controle completo com descoberta de serviço, configuração e funcionalidade de segmentação. Cada um desses recursos pode ser usado individualmente conforme necessário ou podem ser usados juntos para criar uma malha de serviço completa. O Consul requer um plano de dados e oferece suporte a um modelo de integração proxy e nativo. O Consul é fornecido com um proxy integrado simples para que tudo funcione imediatamente, mas também oferece suporte a integrações de proxy de terceiros, como o Envoy.
+
+    [Inicio](../../README.md)
