@@ -111,6 +111,14 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
 
 - [Padrões de design de nuvem](contents/designdenuvem/designdenuvem.md)
 
+### 16. DevSecOps
+
+- [DevSecOps](contents/devsecops/devsecops.md)
+
+### 17. Ferramentas Atlassian para DevOps 
+
+- [Ferramentas Atlassian](contents/atlassiandevops/atlassiandevops.md)
+
 <!-- CONTRIBUTING -->
 
 ## Como Contribuir
