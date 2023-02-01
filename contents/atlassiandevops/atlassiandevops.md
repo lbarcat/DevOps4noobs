@@ -20,21 +20,59 @@
 
 - Trello:
 
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/1280px-Trello_logo.svg.png" title="confluence" width="250" /></a>
+
+    O Trello é uma ferramenta que possibilita o time gerenciar qualquer projeto, seu fluxo de trabalho e monitorar suas tarefas. É possível personalizar tudo para o que o time precisar.
+
+    Documentação: https://blog.trello.com/br/produto
+
 ## **2.Colaboration and Communication:**
 
 - Confluence
-- Trello
 
 ## **3.Build, Test and Deploy:**
 
-- Bitbucket
+- Bitbucket:
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitbucket-Logo-blue.svg/2560px-Bitbucket-Logo-blue.svg.png" title="confluence" width="300" /></a>
+
+    O Bitbucket é uma ferramenta de código e colaboração em git, criado para as equipes. Com ele é possível integrar o Jira, Bitbucket pipelines e até mesmo o GiHub.
+
+    Documentação: https://www.atlassian.com/br/software/bitbucket
 
 ## **4.Operate:**
 
-- Opsgenie
-- Statuspage
-- Compass
-- Jira Service Management
+- Opsgenie:
+
+    <img src="https://www.starfishetl.com/sites/default/files/styles/product_logo/public/2022-07/Opsgenie%20logo.png?itok=jWoG2yVc" title="confluence" width="300" /></a>
+
+    O Opsgenie é uma ferramenta que permite gerenciar o incidentes do projeto, a ferramenta garante que os incidentes críticos nunca sejam esquecidos e que ações sejam tomadas, envolvendo as principais pessoas, ajudando para que os problemas sejam resolvidos.
+
+    Documentação: https://www.atlassian.com/br/software/opsgenie
+
+- Statuspage:
+
+    <img src="https://www.atlassian.com/dam/jcr:09e533bf-aea2-4311-9be1-6142d3839c7c/Statuspage@2x-blue.png" title="confluence" width="300" /></a>
+
+    O status page é uma página que permite a comunicação entre os clientes e a sua empresa, relatando itens como incidentes, tempos de inatividade e manutenções programadas. Sendo assim, todos os dados ficam registrados nessa página.
+
+    Documentação: https://www.atlassian.com/software/statuspage/features
+
+- Compass:
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpwVSofCTPmXpOIlC1swYE8riOOzkfXbIfYYMiOMW8f0TLr4EThLJtiyikMfDIkQLRsw&usqp=CAU" title="confluence" width="300" /></a>
+
+    O Compass foi desenvolvido com a extensibilidade em mente para ajudar a se integrar com facilidade a qualquer uma das ferramentas internas ou de terceiros. Personalize a interface do usuário e crie novos recursos em nível de componente, equipe ou global.
+
+    Documentação: https://www.atlassian.com/br/software/compass/features
+
+- Jira Service Management:
+
+    <img src="https://www.excentia.es/img/atlassian-products/logo-gradient-blue-jira-service-management.png" title="confluence" width="300" /></a>
+
+    O Jira Service Management combina os fluxos de trabalho e recursos de gerenciamento de tarefas do Jira que as equipes adoram com o portal de autoatendimento que permite que os funcionários peçam ajuda com facilidade.
+
+    Documentação: https://www.atlassian.com/br/software/jira/service-management
 
 ## **5.Continuous Feedback:**
 
