@@ -97,25 +97,19 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
 
 - [Aprenda alguma ferramenta de CI/CD](contents/cicd/cicd.md)
 
-### 13. Monitoramento
-
-- [Aprenda a monitorar software e infraestrutura](contents/monitorar/monitorar.md)
-  - [Monitoramento de Infraestrutura](contents/monitorar/monitorar.md)
-  - [Monitoramento de Aplicações](contents/monitorar/monitorar.md)
-
-### 14. Provedores de Nuvem
+### 13. Provedores de Nuvem
 
 - [Provedores de nuvem](contents/provedoresdenuvem/provedoresdenuvem.md)
 
-### 15. Design de Nuvem
+### 14. Design de Nuvem
 
 - [Padrões de design de nuvem](contents/designdenuvem/designdenuvem.md)
 
-### 16. DevSecOps
+### 15. DevSecOps
 
 - [DevSecOps](contents/devsecops/devsecops.md)
 
-### 17. Ferramentas Atlassian para DevOps 
+### 16. Ferramentas Atlassian para DevOps 
 
 - [Ferramentas Atlassian](contents/atlassiandevops/atlassiandevops.md)
 
