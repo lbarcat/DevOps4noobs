@@ -107,7 +107,12 @@ Guia sobre DevOps para iniciantes, revelando os benefícios e vantagens de usar 
 
 ### 15. DevSecOps
 
-- [DevSecOps](contents/devsecops/devsecops.md)
+- [Vulnerabilidade e Ameaças](contents/devsecops/devsecops.md)
+- [Segurança desde o desenvolvimento](contents/devsecops/devsecops.md)
+- [SAST](contents/devsecops/devsecops.md)
+- [DAST](contents/devsecops/devsecops.md)
+- [IAST](contents/devsecops/devsecops.md)
+- [Quality Gate](contents/devsecops/devsecops.md)
 
 ### 16. Ferramentas Atlassian para DevOps 
 
