@@ -11,15 +11,15 @@ Sobre esse tema, vamos conhecer um pouco mais afundo alguns conceitos, referênc
 
 - **Vulnerabilidade e Ameaças**
 
-Antes de falarmos de ferramentas que buscam por vulnerabilidades, precisamos primeiro definir o que é uma vulnerabilidade. **Vulnerabilidades** são condições ou falhas que, quando exploradas por um invasor, pode originar violações na seguranaça do seu sistema. **Ameaças** por sua vez são qualquer tipo de coisa que possa aproveitar de uma vulnerabilidade para causar dano ao sistema ou a um ativo.
+Antes de falarmos de ferramentas que buscam por vulnerabilidades, precisamos primeiro definir o que é uma vulnerabilidade. **Vulnerabilidades** são condições ou falhas que, quando exploradas por um invasor, pode originar violações na segurança do seu sistema. **Ameaças** por sua vez são qualquer tipo de coisa que possa aproveitar de uma vulnerabilidade para causar dano ao sistema ou a um ativo.
 
 - **Segurança desde o desenvolvimento**
 
-No mercado existem diversas ferramentas para análise de código afim de buscar vulnerabilidades, todavia nenhuma delas é melhor do que um bom engenheiro que conhece as principais falhas e busca sempre utilizar do **desenvolvimento seguro** nos seus projetos. Uma boa fonte de conhecimento para tal é o [OWASP Top 10](https://owasp.org/www-project-top-ten/). OWASP é uma fundação voltada para a melhora da segurança nos softwares e anualmente ela libera um relátorio com os 10 tipos de ataques mais frequentes naquele ano. Portanto, esse é um material que todo programador deveria ler antes de se preocupar com ferramentas de análise de código.
+No mercado existem diversas ferramentas para análise de código afim de buscar vulnerabilidades, todavia nenhuma delas é melhor do que um bom engenheiro que conhece as principais falhas e busca sempre utilizar do **desenvolvimento seguro** nos seus projetos. Uma boa fonte de conhecimento para tal é o [OWASP Top 10](https://owasp.org/www-project-top-ten/). OWASP é uma fundação voltada para a melhora da segurança nos softwares e anualmente ela libera um relatório com os 10 tipos de ataques mais frequentes naquele ano. Portanto, esse é um material que todo programador deveria ler antes de se preocupar com ferramentas de análise de código.
 
 - **SAST**
 
-Entrando no mundo das ferramentas para análise de código, podemos dividir as análises em três tipos:  SAST, DAST e IAST. SAST *(Static Application Security Testing)* refere-se a exames do seu código de forma estática, ou seja, apenas olhando o código da forma que está, sem alterá-lo ou tentar burbá-lo, a ferramenta é capaz de verificar se há falta de sanitizações, que são possiveis entradas no seu software para código malicioso, más práticas de segurança e análise da composição das bibliotecas utilizadas no teu programa *(conhecido como análise de SCA - software component analysis)* verificando se alguma delas não possui vulnerabilidades.
+Entrando no mundo das ferramentas para análise de código, podemos dividir as análises em três tipos:  SAST, DAST e IAST. SAST *(Static Application Security Testing)* refere-se a exames do seu código de forma estática, ou seja, apenas olhando o código da forma que está, sem alterá-lo ou tentar burlá-lo, a ferramenta é capaz de verificar se há falta de sanitizações, que são possíveis entradas no seu software para código malicioso, más práticas de segurança e análise da composição das bibliotecas utilizadas no teu programa *(conhecido como análise de SCA - software component analysis)* verificando se alguma delas não possui vulnerabilidades.
 
 Alguns exemplos desse tipo de ferramenta são: Sonarqube, Fortify.
 
@@ -31,7 +31,7 @@ Exemplo de ferramenta DAST: Detectify
 
 - **IAST**
 
-IAST *(Interactive Application Security Testing)* nada mais é que uma combinação entre as duas técnicas de SAST e DAST, os fabricantes ao perceberem que as duas técnicas eram complementares, combinaram-as criando assim a IAST.
+IAST *(Interactive Application Security Testing)* nada mais é que uma combinação entre as duas técnicas de SAST e DAST, os fabricantes ao perceberem que as duas técnicas eram complementares, combinaram-nas criando assim a IAST.
 
 Exemplo de ferramenta: Veracode
 
